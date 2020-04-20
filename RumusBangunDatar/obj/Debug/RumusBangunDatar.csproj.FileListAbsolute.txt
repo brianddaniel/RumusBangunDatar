@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\RumusBangunDatar\obj\Debug\RumusBangunDatar.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\RumusBangunDatar\bin\Debug\RumusBangunDatar.exe.config
+C:\Users\ASUS\source\repos\RumusBangunDatar\bin\Debug\RumusBangunDatar.exe
+C:\Users\ASUS\source\repos\RumusBangunDatar\bin\Debug\RumusBangunDatar.pdb
+C:\Users\ASUS\source\repos\RumusBangunDatar\obj\Debug\RumusBangunDatar.exe
+C:\Users\ASUS\source\repos\RumusBangunDatar\obj\Debug\RumusBangunDatar.pdb
